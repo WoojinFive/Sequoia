@@ -19,7 +19,7 @@ const UserInfoScreen = (props) => {
           <FontAwesome name="user-circle" size={100} color={Colors.accent} />
         </View>
         <View>
-          <DefaultText style={{ fontSize: 20 }}>john.doe@gmail.ocm</DefaultText>
+          <DefaultText style={{ fontSize: 20 }}>john.doe@gmail.com</DefaultText>
           <Button
             title="Edit My Info"
             style={{ marginTop: 20 }}

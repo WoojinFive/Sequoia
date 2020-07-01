@@ -46,9 +46,9 @@ const RewardScreen = (props) => {
               </DefaultText>
               <DefaultText>Description</DefaultText>
               <View style={styles.share}>
-                <Ionicons name="logo-instagram" size={24} color="black" />
-                <Ionicons name="logo-facebook" size={24} color="black" />
-                <Ionicons name="logo-twitter" size={24} color="black" />
+                <Ionicons name="logo-instagram" size={24} color="#E1306C" />
+                <Ionicons name="logo-facebook" size={24} color="#4267B2" />
+                <Ionicons name="logo-twitter" size={24} color="#1DA1F2" />
               </View>
             </View>
           </View>
@@ -74,9 +74,9 @@ const RewardScreen = (props) => {
               </DefaultText>
               <DefaultText>Description</DefaultText>
               <View style={styles.share}>
-                <Ionicons name="logo-instagram" size={24} color="black" />
-                <Ionicons name="logo-facebook" size={24} color="black" />
-                <Ionicons name="logo-twitter" size={24} color="black" />
+                <Ionicons name="logo-instagram" size={24} color="#E1306C" />
+                <Ionicons name="logo-facebook" size={24} color="#4267B2" />
+                <Ionicons name="logo-twitter" size={24} color="#1DA1F2" />
               </View>
             </View>
           </View>
